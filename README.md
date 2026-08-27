@@ -1,6 +1,6 @@
 # Ameaças e vulnerabilidades à Segurança da Informação
 
-Conceitos de ameaças e vulnerabildiades, suas classificações e possíveis traamentos para a mitigação desses problemas. Apresentação de técnicas utilizadas em ataques cibernéticos e exemplos de golpes aplicados na internet.
+Conceitos de ameaças e vulnerabilidades, suas classificações e possíveis tratamentos para a mitigação desses problemas. Apresentação de técnicas utilizadas em ataques cibernéticos e exemplos de golpes aplicados na internet.
 
 # Propósito
 
@@ -15,15 +15,13 @@ Compreender a importância de identificar ameaças e vulnerabilidades no âmbito
 
 Em meados dos anos 1990, nos laboratórios do CERN (Organização Europeia para a Pesquisa Nuclear), na Suíça, o físico britânico Tim Berners-Lee, em seu computador NExT, começou a escrever algumas linhas de código que transformariam a humanidade. E ali nasceu a internet.
 
-
 Atualmente, não conseguimos passar um momento sem que façamos algumas interações através da grande rede de computadores. Embora esse sistema seja bastante útil, algumas pessoas e situações têm se aproveitado disso para adquirir vantagem ou demonstrar superioridade técnica.
-
 
 Assim, deu-se início a uma batalha virtual onde hackers de todo o mundo exploram as fraquezas, também conhecidas como vulnerabilidades, de servidores e serviços utilizados por bilhões de pessoas. Por isso, este conteúdo objetiva identificar os conceitos de ameaças e vulnerabilidades de Segurança da Informação e seus possíveis tratamentos. Também serão ressaltados alguns dos golpes mais comuns na internet e apontados caminhos para sua mitigação.
 
 # Ameaças e vulnerabilidades de software
 
-Hoje em dia utilizamos aplicações de software para realizar muitas tarefas como consultar o extrato financeiro, aplicativo de banco, fazer uma compra ou assistir uma aula. Não há dúvidas como essas aplicações são importante para nós. Exatamente por causa da importância dessas aplicações precisamos nos preocupar com a questão da segurança. Por exemplo, um clinte quer comprar uma roupa na promoção excelenete, a loja não é muito conhecida e o nosso cliente enão verifica a procedência dela, ou procurar por comentários de outros clientes a respeito da loja, e resolveu efetuar a compra com seu cartão de crédito informando vários dados pessoais. Os donos da loja são honestos mas usam um sistema sem garantia de segurança para os clientes e nem para eles mesmos. Infelizmente muita coisa ruim pode acontecer nesse cenário. Uma delas é que o invasor pode descobrir falhas no sistema da loja e começar a aplicar golpes que prejudicam os clientes e os loistas que não possuem uma boa proteção. Os invasores estão na busca por sistemas que não possuem recursos de segurança. Eles exploram defeitos no software para obter o controle no sistema e dos dados. Esses defeitos de segurança no software chamamos de vulnerabilidade, na prática a vulnerabildiade são pontos fracos na segurança do sistema, o expõe ao risco de invasão. Esse risco é o que chamamos de ameaça, portanto ameaça é qualquer coisa que pode explorar uma vulnerabilidade de forma intencional e acidental para obter dados de forma indevida prejudicar o funcionamento correto do sistema. Concretamente alguns exemplos de ameaças são tentaativas de ataques, roubos, acidentes, incêndios e corrupção de dados. Mas vem a questão: como reduzir as vulnerabilidades o software e os riscos de ameaça? A primeira coisa que deve estar clara a respeito da minimização dos riscos em relação às ameaças e vulnerabilidades de software que existem métodos e normas bem definidos, por exemplo a norma abnt código de prática para gestão de segurança da informação trata de todos os aspectos necessários para garantir que todas as práaticas sejam aplciadas à segurança da informação. Essa norma aborda questões que tratam o estabelecimento e o gerenciamento de uma política de segurança da informação, tratamento e segurança de recursos humanos físicos e do ambiente, operações e comunicações, controle de acesso, ter uma gestão de incidente de informação e documenta e treina de forma clara a gestão de continidade de negócio.
+Hoje em dia utilizamos aplicações de software para realizar muitas tarefas como consultar o extrato financeiro, aplicativo de banco, fazer uma compra ou assistir uma aula. Não há dúvidas como essas aplicações são importantes para nós. Exatamente por causa da importância dessas aplicações precisamos nos preocupar com a questão da segurança. Por exemplo, um cliente quer comprar uma roupa na promoção excelente, a loja não é muito conhecida e o nosso cliente enão verifica a procedência dela, ou procurar por comentários de outros clientes a respeito da loja, e resolveu efetuar a compra com seu cartão de crédito informando vários dados pessoais. Os donos da loja são honestos mas usam um sistema sem garantia de segurança para os clientes e nem para eles mesmos. Infelizmente muita coisa ruim pode acontecer nesse cenário. Uma delas é que o invasor pode descobrir falhas no sistema da loja e começar a aplicar golpes que prejudicam os clientes e os lojistas que não possuem uma boa proteção. Os invasores estão na busca por sistemas que não possuem recursos de segurança. Eles exploram defeitos no software para obter o controle no sistema e dos dados. Esses defeitos de segurança no software chamamos de vulnerabilidade, na prática a vulnerabildiade são pontos fracos na segurança do sistema, o expõe ao risco de invasão. Esse risco é o que chamamos de ameaça, portanto ameaça é qualquer coisa que pode explorar uma vulnerabilidade de forma intencional e acidental para obter dados de forma indevida prejudicar o funcionamento correto do sistema. Concretamente alguns exemplos de ameaças são tentaativas de ataques, roubos, acidentes, incêndios e corrupção de dados. Mas vem a questão: como reduzir as vulnerabilidades o software e os riscos de ameaça? A primeira coisa que deve estar clara a respeito da minimização dos riscos em relação às ameaças e vulnerabilidades de software que existem métodos e normas bem definidos, por exemplo a norma abnt código de prática para gestão de segurança da informação trata de todos os aspectos necessários para garantir que todas as práaticas sejam aplciadas à segurança da informação. Essa norma aborda questões que tratam o estabelecimento e o gerenciamento de uma política de segurança da informação, tratamento e segurança de recursos humanos físicos e do ambiente, operações e comunicações, controle de acesso, ter uma gestão de incidente de informação e documenta e treina de forma clara a gestão de continidade de negócio.
 
 # Ameaças e vulnerabilidades
 
@@ -57,7 +55,7 @@ São aqueles referentes aos colaboradores e prestadores de serviço, como, por e
 
 De maneira geral, os ativos tangíveis e intangíveis se posicionam e se desdobram desta maneira:
 
-![alt text](image.png)
+![alt text](./Imagens/image.png)
 
 A perda ou a danificação desses ativos poderia acarretar problemas financeiros gigantescos.
 
@@ -93,7 +91,7 @@ O correto seria a análise e avaliação dos riscos associados à instalação d
 
 Veja, a seguir, um sistema de combate a incêndio:
 
-![alt text](image-1.png)
+![alt text](./Imagens/image-1.png)
 
 Após a análise e avaliação do risco e a sua probabilidade de ocorrência, podemos adotar uma metodologia como a identificação dos ativos e o cálculo do seu valor. Será mesmo que precisamos usar todo e qualquer controle para proteger o ativo? E se o ativo valer menos do que o controle, ainda seria vantajoso implementar esse controle? Com a definição do valor do ativo, a análise e avaliação do risco e os custos para implementar as proteções necessárias, começam as decisões.
 
@@ -113,21 +111,21 @@ São exemplos clássicos de perdas de confidencialidade e integridade. Poderá h
 
 Outro exemplo que podemos citar é o armazenamento de documentos eletrônicos. Atualmente, em termos de aplicações que conseguem colocar o rosto de uma pessoa em outra, alterar documentos torna-se uma ação simples de ser realizada. Logo, uma forma de proteger o documento eletrônico é guardar um selo de autenticidade para assegurar que o documento está íntegro. Uma ferramenta bem disseminada é o uso de funções de hashes.
 
-![alt text](image-2.png)
+![alt text](./Imagens/image-2.png)
 
 Outra forma de abordar as ameaças descritas é utilizando a classificação quanto a ser física ou lógica. Fenômenos naturais e perdas de dispositivos de armazenamento são exemplos de ameaças físicas enquanto as demais são exemplos de ameaças lógicas.
 
 
 Podemos reorganizar a tabela anterior e reapresentar as ameaças de acordo com a taxonomia física e lógica, obtendo a seguinte tabela:
 
-![alt text](image-3.png)
+![alt text](./Imagens/image-3.png)
 
 Podemos consolidar da seguinte forma: se ocorrer falha em equipamentos e instalações, a ameaça é física. Caso contrário, se estiver relacionada a problemas de software, algoritmos etc., é considerada ameaça lógica.
 
 
 Quando a ameaça tiver algum agente humano, é classificada dessa forma. Caso contrário, como, por exemplo, nos fenômenos oriundos de causas naturais, como incêndio e enchentes, é conhecida como ameaça não humana. Veremos os detalhes na próxima tabela:
 
-![alt text](image-4.png)
+![alt text](./Imagens/image-4.png)
 
 As ameaças humanas são aquelas que foram provocadas por seres humanos, e as não humanas são provocadas pela natureza ou por problemas de infraestrutura. As ameaças provocadas por seres humanos podem ainda ser classificadas das duas formas a seguir:
 
@@ -147,7 +145,7 @@ Por exemplo, na construção do data center, se a região possui enchentes com c
 
 Quando a ameaça tiver algum agente humano, é classificada dessa forma. Caso contrário, como, por exemplo, nos fenômenos oriundos de causas naturais, como incêndio e enchentes, é conhecida como ameaça não humana. Veremos os detalhes na próxima tabela:
 
-![alt text](image-5.png)
+![alt text](./Imagens/image-5.png)
 
 Essas classificações se sobrepõem e permitem que determinada ameaça possa ser classificada por vários critérios.
 
