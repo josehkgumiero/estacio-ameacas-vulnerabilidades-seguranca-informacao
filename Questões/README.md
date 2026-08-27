@@ -32,6 +32,22 @@
 
 17) Como treina de forma clara a gestão de continidade de negócio?
 
+18) O que é um ativo intangível?
+
+19) O que é um ativo tangível?
+
+20) O que são Ativos tangíveis lógicos?
+
+21) O que são Ativos tangíveis físicos?
+
+22) O que são os controles de segurança da informação conhecido como medidas de proteção?
+
+23) O que e probabilidade de acontecer uma ameça?
+
+24) O que é análise e avaliação dos riscos?
+
+# Tipos de ameaças e vulnerabilidades - Física e Lógica
+
 
 
 
